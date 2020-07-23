@@ -4,6 +4,7 @@
 	<HediffDef Name="addedPartSimple" Abstract="True">
 		<hediffClass>Hediff_AddedPart</hediffClass>
 		<isBad>false</isBad>
+		<description>an artifical bodypart</description>
 		<defaultLabelColor>(102,178,255)</defaultLabelColor>
 		<addedPartProps>
 			<solid>true</solid>

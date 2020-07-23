@@ -9,8 +9,10 @@
 			<li>SimpleProstheses</li>
 		</thingCategories>
 		<graphicData>
-			<texPath>Things/Item/Unfinished/UnfinishedHealthItem</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
+		  <texPath>Things/Item/Health/HealthItem</texPath>
+		  <graphicClass>Graphic_Single</graphicClass>
+		  <drawSize>0.80</drawSize>
+		  <color>(154,124,104)</color>
 		</graphicData>
 	</ThingDef>
 
