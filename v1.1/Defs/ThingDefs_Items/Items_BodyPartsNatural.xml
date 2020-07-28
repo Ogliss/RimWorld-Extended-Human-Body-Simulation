@@ -5,12 +5,10 @@
 		<defName>Leg</defName>
 		<label>leg</label>
 		<description>Basically long meaty sticks that let you move around.</description>
-			<graphicData>
-			  <texPath>Things/Item/Health/HealthItem</texPath>
-			  <graphicClass>Graphic_Single</graphicClass>
-			  <drawSize>0.80</drawSize>
-			  <color>(190,190,190)</color>
-			</graphicData>
+		<graphicData>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
 		<statBases>
 			<MarketValue>700</MarketValue>
 			<Mass>8</Mass>
@@ -29,10 +27,8 @@
 		<label>foot</label>
 		<description>The thing you can put shoes on.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>400</MarketValue>
@@ -52,10 +48,8 @@
 		<label>arm</label>
 		<description>Arms are like legs, except you can carry stuff with them.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>800</MarketValue>
@@ -75,12 +69,9 @@
 		<label>hand</label>
 		<description>A man's best friend.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
-
 		<statBases>
 			<MarketValue>450</MarketValue>
 			<Mass>2</Mass>
@@ -99,10 +90,8 @@
 		<label>stomach</label>
 		<description>Digests food and turns it into energy and nutrients.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>900</MarketValue>
@@ -122,10 +111,8 @@
 		<label>brain</label>
 		<description>A brain. Someone might miss this.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>1000</MarketValue>
@@ -145,10 +132,8 @@
 		<label>spleen</label>
 		<description>A spleen.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>400</MarketValue>
@@ -168,10 +153,8 @@
 		<label>lobe of liver</label>
 		<description>Plays an important role in metabolism.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>450</MarketValue>
@@ -191,10 +174,8 @@
 		<label>eyeball</label>
 		<description>Absorbs light, which lets a person know what's around them.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>1500</MarketValue>
@@ -214,10 +195,8 @@
 		<label>nose</label>
 		<description>A pretty useful organ to distinguish odors, applies the finishing touch to a face.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>500</MarketValue>
@@ -237,10 +216,8 @@
 		<label>ear</label>
 		<description>Picks up vibrations in the air, allowing people to hear sound.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>500</MarketValue>
@@ -260,10 +237,8 @@
 		<label>jaw</label>
 		<description>A nice set of teeth for chewing food and talking.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>500</MarketValue>
@@ -283,10 +258,8 @@
 		<label>finger</label>
 		<description>A finger.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>100</MarketValue>
@@ -306,10 +279,8 @@
 		<label>toe</label>
 		<description>A toe.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>100</MarketValue>
@@ -330,10 +301,8 @@
 		<label>shoulder</label>
 		<description>A shoulder.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>350</MarketValue>
@@ -354,10 +323,8 @@
 		<label>ribcage</label>
 		<description>A ribcage.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>100</MarketValue>
@@ -377,10 +344,8 @@
 		<label>spine</label>
 		<description>A spine. Someone may miss this.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>500</MarketValue>
@@ -400,10 +365,8 @@
 		<label>clavicle</label>
 		<description>A clavicle.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>100</MarketValue>
@@ -423,10 +386,8 @@
 		<label>sternum</label>
 		<description>A sternum.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>100</MarketValue>
@@ -446,10 +407,8 @@
 		<label>humerus</label>
 		<description>A humerus.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>150</MarketValue>
@@ -469,10 +428,8 @@
 		<label>femur</label>
 		<description>A femur.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>150</MarketValue>
@@ -492,10 +449,8 @@
 		<label>pelvis</label>
 		<description>A pelvis.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>400</MarketValue>
@@ -515,10 +470,8 @@
 		<label>radius</label>
 		<description>A radius.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>100</MarketValue>
@@ -538,10 +491,8 @@
 		<label>ulna</label>
 		<description>An ulna.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>100</MarketValue>
@@ -561,10 +512,8 @@
 		<label>patella</label>
 		<description>A patella.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>100</MarketValue>
@@ -584,10 +533,8 @@
 		<label>tibia</label>
 		<description>A tibia.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>100</MarketValue>
@@ -607,10 +554,8 @@
 		<label>fibula</label>
 		<description>A fibula.</description>
 		<graphicData>
-		  <texPath>Things/Item/Health/HealthItem</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		  <drawSize>0.80</drawSize>
-		  <color>(190,190,190)</color>
+			<texPath>Things/Item/Health/HealthItem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
 			<MarketValue>100</MarketValue>
