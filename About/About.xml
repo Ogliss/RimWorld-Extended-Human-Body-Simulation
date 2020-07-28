@@ -9,7 +9,11 @@
 		<li>1.1</li>
 	</supportedVersions>
 	<loadBefore>
+<<<<<<< HEAD
 		<li>Mythos.DiseasesOverhauled</li>
+=======
+		<packageId>Mythos.DiseasesOverhauled</packageId>
+>>>>>>> parent of a708fb8... fixes
 	</loadBefore>
 	<description>Adds new body parts:
 - Patella

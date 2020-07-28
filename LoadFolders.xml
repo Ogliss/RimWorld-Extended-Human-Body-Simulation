@@ -1,7 +1,10 @@
 <loadFolders>
+<<<<<<< HEAD
   <default>
     <li>/</li>
   </default>
+=======
+>>>>>>> parent of a708fb8... fixes
   <v1.1>
     <li>/</li>
     <li>v1.1</li>
