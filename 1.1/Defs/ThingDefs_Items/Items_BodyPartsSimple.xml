@@ -9,12 +9,10 @@
 			<li>SimpleProstheses</li>
 		</thingCategories>
 		<graphicData>
-<<<<<<< HEAD:v1.1/Defs/ThingDefs_Items/Items_BodyPartsSimple.xml
-			<texPath>Things/Item/Unfinished/UnfinishedHealthItem</texPath>
-=======
-			<texPath>Things/Item/Health/HealthItemProsthetic</texPath>
->>>>>>> parent of a708fb8... fixes:1.1/Defs/ThingDefs_Items/Items_BodyPartsSimple.xml
-			<graphicClass>Graphic_Single</graphicClass>
+		  <texPath>Things/Item/Health/HealthItem</texPath>
+		  <graphicClass>Graphic_Single</graphicClass>
+		  <drawSize>0.80</drawSize>
+		  <color>(154,124,104)</color>
 		</graphicData>
 	</ThingDef>
 
