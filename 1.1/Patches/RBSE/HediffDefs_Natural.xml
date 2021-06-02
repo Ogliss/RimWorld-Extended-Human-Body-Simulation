@@ -11,6 +11,7 @@
                 <value>
                     <HediffDef ParentName="addedPartPropsBase">
                         <defName>Spleen</defName>
+						<description>.</description>
                         <label>spleen transplant</label>
                         <lethalSeverity>1</lethalSeverity>
                         <tendable>true</tendable>
